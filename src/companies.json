@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "BrightTech",
+    "location": "Bengaluru",
+    "industry": "Software",
+    "employees": 120
+  },
+  {
+    "id": 2,
+    "name": "AgriCore",
+    "location": "Pune",
+    "industry": "Agriculture",
+    "employees": 250
+  },
+  {
+    "id": 3,
+    "name": "SkyCloud",
+    "location": "Hyderabad",
+    "industry": "Cloud Services",
+    "employees": 300
+  },
+  {
+    "id": 4,
+    "name": "FinTrust",
+    "location": "Mumbai",
+    "industry": "Fintech",
+    "employees": 180
+  },
+  {
+    "id": 5,
+    "name": "HealthSphere",
+    "location": "Delhi",
+    "industry": "Healthcare",
+    "employees": 140
+  },
+  {
+    "id": 6,
+    "name": "EcoWare",
+    "location": "Chennai",
+    "industry": "Manufacturing",
+    "employees": 500
+  }
+]
