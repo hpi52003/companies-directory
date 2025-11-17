@@ -40,5 +40,46 @@
     "location": "Chennai",
     "industry": "Manufacturing",
     "employees": 500
-  }
-]
+  },
+  {
+  "id": 7,
+  "name": "GreenMinds",
+  "location": "Kochi",
+  "industry": "Environmental Services",
+  "employees": 95
+},
+{
+  "id": 8,
+  "name": "BuildPro",
+  "location": "Ahmedabad",
+  "industry": "Construction",
+  "employees": 430
+},
+{
+  "id": 9,
+  "name": "EduVerse",
+  "location": "Jaipur",
+  "industry": "EdTech",
+  "employees": 160
+},
+{
+  "id": 10,
+  "name": "DataStream",
+  "location": "Gurugram",
+  "industry": "Data Analytics",
+  "employees": 210
+},
+{
+  "id": 11,
+  "name": "MediPlus Labs",
+  "location": "Lucknow",
+  "industry": "Biotech",
+  "employees": 70
+},
+{
+  "id": 12,
+  "name": "AutoSphere",
+  "location": "Nagpur",
+  "industry": "Automotive",
+  "employees": 380
+}]
